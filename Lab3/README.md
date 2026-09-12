@@ -1,1 +1,3 @@
+# Lab 3: Exploratory Data Analysis & Visualization
 
+In this lab, I worked in JupyterLab using Pandas to load, inspect, and clean the `student_exam_performance.csv` dataset by checking data types, summary statistics, missing values, duplicates, and shape, as well as grouping data by school type and study methods. I also applied Matplotlib and Seaborn to visualize the data through distribution histograms of exam scores, a bar chart of school performance, a scatter plot of study hours versus exam score, and a correlation heatmap analyzing key numerical features such as study hours, attendance, assignment completion, sleep hours, and exam scores.
